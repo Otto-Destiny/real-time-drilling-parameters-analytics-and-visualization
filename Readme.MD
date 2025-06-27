@@ -94,3 +94,6 @@ This project is released under the MIT License. See `LICENSE` for details.
 ---
 
 By following this documentation, drilling engineers and data scientists can immediately leverage the notebooks to transform raw field measurements into actionable, high‐resolution visual narratives of downhole operations.
+
+---
+_**Author: Destiny Otto**_
